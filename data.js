@@ -1617,7 +1617,7 @@ const dramas = [
         "originalUrl": "https://www.youtube.com/watch?v=DTZSb_4gkPU",
         "translatedUrl": "https://www.bilibili.com/video/BV19VZPBGEgQ/",
         "description": "",
-        "thumbnail": "",
+        "thumbnail": "https://postimg.cc/DJW2rkY5",
         "dateAdded": "2024-05-25"
       }
 ];
