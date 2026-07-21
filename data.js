@@ -1832,7 +1832,21 @@ const dramas = [
         description: "",
         thumbnail: "https://res.cloudinary.com/do6rggmy6/image/upload/v1781336080/131.webp",
         dateAdded: "2018-07-07"
-    }
+    },
+    {
+  "id": 132,
+  "title": "一周的单恋",
+  "author": "あるふぁるふぁ。@ゆっくり茶番劇",
+  "translator": "花椒蛛",
+  "tags": [ "古明地恋","古明地觉" ],
+  "isTranslated": true,
+  "isDomestic": true,
+  "originalUrl": "https://www.youtube.com/watch?v=IiYNUDjfZsw",
+  "translatedUrl": "https://www.bilibili.com/video/BV1wfKp69E9V/",
+  "description": "",
+  "thumbnail": "https://postimg.cc/nXHtV17q",
+  "dateAdded": "2025-04-19"
+}
 ];
 
 const authorLinks = {
